@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sổ Bán Hàng Pro",
+  "description": "Một ứng dụng React web giúp các cửa hàng nhỏ quản lý bán hàng, tồn kho, công nợ và báo cáo. Ứng dụng hoạt động offline-first bằng cách sử dụng lưu trữ cục bộ của trình duyệt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
